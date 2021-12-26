@@ -1,4 +1,3 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-
-![kodluyoruz](image/kodluyoruzilkrepo.jpeg)
+![What is this](../image/kodluyoruzilkrepo.jpeg)
